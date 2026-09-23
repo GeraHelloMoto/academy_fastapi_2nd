@@ -1,0 +1,13 @@
+.venv
+.env
+.git
+.gitignore
+__pycache__
+*.pyc
+.DS_Store
+.github
+tests
+check_db.py
+README.md
+.idea
+.vscode
